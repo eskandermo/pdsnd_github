@@ -1,14 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+8th of November 2020
 
 ### Project Title
-Replace the Project Title
+Github Project 3
 
 ### Description
-Describe what your project is about and what it does
+Uploading my local repository to Github repository
 
 ### Files used
-Include the files used
+Explore_bikeshare_data.r
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
