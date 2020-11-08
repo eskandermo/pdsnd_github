@@ -2,7 +2,7 @@
 Sunday 8th of November 2020
 
 ### Project Title
-Explore Bikeshare Dataset
+Explore Bikeshare Dataset - Github Project
 
 ### Description
 Using the R language to visualize the dataset we have about the Bike Share in different 3 main cities in the united states
