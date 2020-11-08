@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+Sunday 8th of November 2020
 
 ### Project Title
-Replace the Project Title
+Explore Bikeshare Dataset
 
 ### Description
-Describe what your project is about and what it does
+Using the R language to visualize the dataset we have about the Bike Share in different 3 main cities in the united states
 
 ### Files used
-Include the files used
+Explore_bikeshare_data.html
+Explore_bikeshare_data.r
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+cjph8914/2020_benfords
 
